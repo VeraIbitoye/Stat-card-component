@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&family=Inter:wght@400;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main {
+  background: hsl(0, 0%, 100%);
+  min-height: 100vh;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.first-glass {
+  background-color: hsl(233, 47%, 7%);
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.glass {
+  background-color: hsl(244, 38%, 16%);
+  width: 80%;
+  height: 65vh;
+  border-radius: 1rem;
+}
+h2 {
+  color: hsla(0, 0%, 100%, 0.6);
+  padding: 10px 20px 30px 40px;
+  width: 75%;
+  font-size: 25px;
+}
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  padding: 20px 20px 0 40px;
+  width: 85%;
+}
+span {
+  color: hsl(277, 64%, 61%);
+}
+footer {
+  color: hsla(0, 0%, 100%, 0.75);
+  display: ;
+}
+.section {
+  display: flex;
+}
+.section1 {
+  padding: 50px 20px 10px 10px;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  color: hsla(0, 0%, 100%, 0.75);
+  padding: 30% 30% 0 10%;
+  text-align: center;
+}
